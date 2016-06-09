@@ -13,7 +13,7 @@ cd electron-chart-application
 npm install && npm start
 ```
 
-## 打包成執行黨 (windows)
+## 打包成執行檔 (windows)
 
 ```bash
 npm build
